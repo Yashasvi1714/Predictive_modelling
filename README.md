@@ -14,7 +14,7 @@ This project implements predictive models to classify adult income based on the 
 |------|-------------|
 | `FinalProject.ipynb` | Jupyter Notebook with complete code and outputs |
 | `README.md` | Project overview and usage instructions |
-| `adult-dataset.csv` | *(Not included)* Original data file from UCI repository |
+| `adult-dataset.csv` | The data is in the file "adult-dataset.csv". It was extracted from the census bureau database, found at: http://www.census.gov/ftp/pub/DES/www/welcome.html  |
 
 
 ---
