@@ -51,12 +51,7 @@ The dataset contains demographic and employment-related attributes for U.S. adul
 Applied both **SVD** and **PCA** to reduce dataset dimensions.
 
 ### ✅ Results:
-- **Explained Variance**: PCA components capturing >90% of variance
-- **Scree Plot**:
-
-![Scree Plot](assets/scree_plot.png) <!-- Replace with your actual image path -->
-
----
+- **Explained Variance**: PCA components capturing >90% of varianc
 
 ## 🤖 Part C: Model Training & Evaluation
 
